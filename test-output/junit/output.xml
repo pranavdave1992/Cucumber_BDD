@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="0.165768">
+<testcase classname="This is a demo test for different test Phases of the development" name="sanity Login testing" time="0.165709">
+<system-out><![CDATA[Given sanity testing User name and password.................................passed
+]]></system-out>
+</testcase>
+<testcase classname="This is a demo test for different test Phases of the development" name="Login failure testing" time="0.000059">
+<system-out><![CDATA[Given failed User name and password.........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
